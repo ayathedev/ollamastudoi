@@ -1,0 +1,6 @@
+{
+  "name": "Ollama Desktop Studio",
+  "description": "A desktop-grade offline chat interface for local Ollama models with streaming, parameters, chat history, and system prompts.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
